@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Edison Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Temp"
+  bio              : "Kid who is interested in computers and coding || An amateur coding enthusiast"
   location         : "Milky Way Galaxy"
-  employer         : "Havre de Grace High School student"
+  employer         : "Junior @ HDG HS"
   uri              : # URL
   email            : "EdisonLin2026@gmail.com" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
