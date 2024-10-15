@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Overview
-Paragraph about me
+I'm a Junior currently attending Havre de Grace High School. I am in the magnet program for Information Technology Oracle Academy. Put some more here...
 
 
 # Education
