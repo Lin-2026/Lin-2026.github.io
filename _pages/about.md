@@ -36,7 +36,7 @@ Janurary 2025 - Future
 
 I also will be taking college level computer programming courses in 2025. I plan to major in computer science at UMD which is why I want to take some college level classes at this moment to help me understand what college will have in store for me.
 
-============================================================================================
+===================================================================
 # Professional experience
 December 2014 - Present 
 
