@@ -60,3 +60,7 @@ In the summer of 2024, I got accepted into a paid internship at J & M systems. I
 - Proficient in Chinese 
 - Proficient in Fujianese (dialect of Chinese) 
 - Intermediate in Japanese 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Projects
+Chat system - https://github.com/Lin-2026/Lin-ServerTalker.git
