@@ -63,5 +63,9 @@ In the summer of 2024, I got accepted into a paid internship at J & M systems. I
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Projects
-[Chat system(Java)](https://github.com/Lin-2026/Lin-ServerTalker.git)\
-[Inventory System(Python)](https://github.com/Lin-2026/InventoryApp.git)
+[Chat system - (Java)](https://github.com/Lin-2026/Lin-ServerTalker.git)\
+[Inventory System - (Python)](https://github.com/Lin-2026/InventoryApp.git)\
+[24 Math card game - (Java)](https://github.com/Lin-2026/TheArtOf24.git)\
+[WelcomeTo Board Game - (HTML, CSS, Javascript)](https://github.com/Lin-2026/WelcomeTo_FrontEndDev.git)\
+\
+[Test runs - (Java)](https://github.com/Lin-2026/Tests.git)
