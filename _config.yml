@@ -27,7 +27,7 @@ author:
   bio              : "Kid who is interested in computers and coding || An amateur coding enthusiast"
   location         : "Havre De Grace High School"
   employer         : "Junior @ HDG HS"
-  #uri              : # URL
+  uri              : "EdisonLin2026@gmail.com" 
   email            : "EdisonLin2026@gmail.com" 
 
   # Academic websites
@@ -109,7 +109,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    #email                : "md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
